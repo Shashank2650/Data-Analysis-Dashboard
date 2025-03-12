@@ -59,8 +59,19 @@ By leveraging Microsoft Excel the dashboard visualizes trends and patterns, enab
 ![Hospital Dashboard Pic](https://github.com/user-attachments/assets/9ea8c2ee-598d-4a56-9f15-e460836f080b)
 
 
----
-
 ## 🚀 Technologies Used
 - **Microsoft Excel** (Power Query, Pivot Tables, Data Visualization)
 
+
+## 🔍 Insights & Findings
+
+- **Peak ER Visits**: High patient influx on **Monday-Wednesday** and during **flu season**, requiring better staff allocation.  
+- **Wait Time Analysis**: Evenings see **longer wait times**, impacting **patient satisfaction**.  
+- **Satisfaction Trends**: Lower satisfaction scores align with **high wait times** and **staff shortages**.  
+- **Patient Demographics**: **Ages 25-40** form the largest group; **elderly patients (60+)** need longer consultations.  
+- **Referrals & Admissions**: **Cardiology & Orthopedics** see the most referrals; many ER visits **don’t require admission**, indicating triage improvements.  
+- **Efficiency Improvements**: Optimizing **shift scheduling** and introducing an **appointment-based system** can reduce ER congestion.  
+
+
+## 📝 Conclusion
+This **Hospital Data Dashboard** provides a clear, data-driven approach to analyzing hospital performance. By leveraging visualization tools and analytical techniques, healthcare providers can enhance efficiency, reduce wait times, and improve patient satisfaction.
