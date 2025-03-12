@@ -21,7 +21,7 @@ By leveraging Microsoft Excel the dashboard visualizes trends and patterns, enab
 - **Department Referrals:** Identify which departments receive the most referrals.
 
 ## Dashboard Interaction
-- <a href="https://github.com/Shashank2650/Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset</a>
+- <a href="https://github.com/Shashank2650/Data-Analysis-Dashboard/blob/main/Hospital%20Data%20Dashboard.xlsx">View Dashboard</a>
 
   ## ⚙️ Steps to Build the Dashboard
 
