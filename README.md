@@ -55,6 +55,10 @@ By leveraging Microsoft Excel the dashboard visualizes trends and patterns, enab
 ### **🔟 Dashboard Development & Insights Generation**
    - Build the final interactive dashboard and analyze key trends.
 
+## Dashboard
+![Hospital Dashboard Pic](https://github.com/user-attachments/assets/9ea8c2ee-598d-4a56-9f15-e460836f080b)
+
+
 ---
 
 ## 🚀 Technologies Used
