@@ -3,7 +3,7 @@
 The Hospital Data Dashboard is designed to provide key insights into hospital operations, patient trends, and service efficiency. This interactive dashboard helps healthcare professionals and administrators make data-driven decisions by analyzing patient admissions, wait times, satisfaction scores, and other critical metrics.
 By leveraging Microsoft Excel the dashboard visualizes trends and patterns, enabling hospitals to improve patient care, optimize resource utilization, and enhance overall efficiency.
 
-# Dataset Used
+## Dataset Used
 - <a href="https://github.com/Shashank2650/Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset</a>
 
 ## 📊 Key Performance Indicators (KPIs)
@@ -19,6 +19,9 @@ By leveraging Microsoft Excel the dashboard visualizes trends and patterns, enab
 - **Timeliness:** Measure the percentage of patients seen within 30 minutes.
 - **Gender Analysis:** Display patient distribution by gender.
 - **Department Referrals:** Identify which departments receive the most referrals.
+
+## Dashboard Interaction
+- <a href="https://github.com/Shashank2650/Data-Analysis-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset</a>
 
   ## ⚙️ Steps to Build the Dashboard
 
